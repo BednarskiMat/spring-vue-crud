@@ -1,0 +1,6 @@
+/app/src/main/java/com/vuecrud/Product/ProductAPI.java
+/app/src/main/java/com/vuecrud/Product/ProductRepository.java
+/app/src/main/java/com/vuecrud/Product/ProductController.java
+/app/src/main/java/com/vuecrud/Product/Product.java
+/app/src/main/java/com/vuecrud/Product/ProductService.java
+/app/src/main/java/com/vuecrud/VuecrudApplication.java

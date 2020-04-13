@@ -1,0 +1,6 @@
+com/vuecrud/VuecrudApplication.class
+com/vuecrud/Product/ProductService.class
+com/vuecrud/Product/Product.class
+com/vuecrud/Product/ProductRepository.class
+com/vuecrud/Product/ProductAPI.class
+com/vuecrud/Product/ProductController.class
